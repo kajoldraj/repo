@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7AC2-70D5
+
+ Directory of C:\Users\Ramesh\Desktop\My project
+
+28-02-2017  12:39    <DIR>          .
+28-02-2017  12:39    <DIR>          ..
+28-02-2017  12:39                 0 file1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  164,785,623,040 bytes free
